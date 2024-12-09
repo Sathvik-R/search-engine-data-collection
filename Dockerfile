@@ -1,4 +1,4 @@
-FROM python:3.9.14-slim-bullsey
+FROM python:3.9.14-slim-bullseye
 
 COPY . /searchengine
 
